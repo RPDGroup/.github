@@ -2,6 +2,8 @@
 
 # Ren Protein Design Group
 
+<img src="https://raw.githubusercontent.com/RPDGroup/.github/main/profile/codex-clipboard-0e00ee94-61ae-4924-8c5d-4394a72ec271.jpg" alt="Ren Protein Design Group team photo" width="900">
+
 **Computational tools for protein design, dynamics, and sequence optimization**
 
 [Explore our repositories](https://github.com/orgs/RPDGroup/repositories) · [DynoDB dataset](https://huggingface.co/datasets/RPDGroup/DynoDB)
